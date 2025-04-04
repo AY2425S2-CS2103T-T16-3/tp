@@ -265,6 +265,7 @@ A mode can only be Online, or Offline.<br>
 
 </box>
 
+
 * Adds the interview schedule of candidate specified at the `INDEX`. The index refers to the index number shown in the displayed person list. The index **must be a positive integer** 1, 2, 3, …​
 * `INTERVIEW_DATE_AND_DURATION` should be of the format: `yyyy-MM-dd HH:mm HH:mm`.
 * All fields must be provided.
@@ -457,6 +458,10 @@ _Details coming soon ..._
 
 <a href="#quickhire-user-guide" class="ug-nav-top">[Go to top]</a>
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> 440a67fb395f2198c82588c1cd2548b42168f462
 --------------------------------------------------------------------------------------------------------------------
 
 ## FAQ
@@ -557,5 +562,6 @@ If you wish to keep the old data file as well, create a separate backup of it (a
 | **List**                          | `list`                                                                                                                    |                                                                                                                                                      |
 | **List All Interview Schedules**  | `slist`                                                                                                                   |                                                                                                                                                      |
 | **Help**                          | `help`                                                                                                                    |                                                                                                                                                      |
+| **Theme**                         | `theme dark/light`                                                                                                        |                                                                                                                                                      |
 
 <a href="#quickhire-user-guide" class="ug-nav-top">[Go to top]</a>
